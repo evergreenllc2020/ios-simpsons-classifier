@@ -1,8 +1,8 @@
-# ios-resnet
+# ios-simpsons
 
-Object detection using ios CoreML and resnet-50 model
+Simpsons Character detection using ios CoreML and CreateML
 
-[![Demo Object Detection](https://evergreenllc2020.github.io/img/od.gif)](https://youtu.be/5maoJWK7RaU)
+[![Demo Object Detection](https://evergreenllc2020.github.io/img/simsons.gif)](https://youtu.be/BDlf9054p8g)
 
-Step by Step video course : https://www.udemy.com/course/building-ios-object-detection-app-with-resnet-ml-model/?referralCode=AA41ECE92E2F5A0186FC
+Step by Step video course : Coming Soon
 
